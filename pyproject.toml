@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "face-recognition-api"
 version = "0.1.0"
-description = "Face Recognition API"
+description = "Face Recognition Web Service"
 requires-python = ">=3.9"
 dependencies = [
     "face_recognition",
